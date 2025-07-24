@@ -1,0 +1,4 @@
+20250724	14:58:02	7caff7e6-4b86-4fee-8ae3-cee77f3e73d9	/new-page.html	GET
+20250724	14:58:02	e131a1c1-092a-4158-81e7-dabb9482333b	/css/style.css	GET
+20250724	14:58:02	bd4d5627-37be-469c-8cea-97be36d7d30b	/img/img1.jpg	GET
+20250724	14:58:03	6c76ecd1-b610-4361-a828-16bccc46149a	/favicon.ico	GET
