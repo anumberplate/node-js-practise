@@ -2,3 +2,18 @@
 20250724	14:58:02	e131a1c1-092a-4158-81e7-dabb9482333b	/css/style.css	GET
 20250724	14:58:02	bd4d5627-37be-469c-8cea-97be36d7d30b	/img/img1.jpg	GET
 20250724	14:58:03	6c76ecd1-b610-4361-a828-16bccc46149a	/favicon.ico	GET
+20250725	15:08:10	5465a6f6-d8fa-4464-97f0-2ce5828988de	GET	undefined	/index
+20250725	15:08:10	24d1b77b-6b19-41ca-a8bb-38518348c0b8	GET	undefined	/css/style.css
+20250725	15:14:17	c660274b-162c-47cf-87c1-712f9168a2db	GET	undefined	/index
+20250725	15:14:17	ccd37286-5150-471c-847b-d326a99c4889	GET	undefined	/css/style.css
+20250725	15:33:26	131bc4ab-d868-41c3-b792-e3042f53a1d6	OPTIONS	https://www.google.com	/
+20250725	15:33:26	1f5e0ebe-94ff-4616-b8d8-5c5e53aed559	GET	https://www.google.com	/
+20250725	16:02:32	125a2e0d-befa-4ce8-b86c-e34dd0538c14	OPTIONS	https://www.google.com	/
+20250725	16:02:32	8fd55df2-738f-4a0f-8dd5-d1aa033276f3	GET	https://www.google.com	/
+20250725	16:03:05	ed5f7d66-69c7-43d9-9c1e-78776e23b408	OPTIONS	https://www.google.com	/
+20250725	16:03:05	5365d19e-7c66-4e21-a662-50f10226904e	GET	https://www.google.com	/
+20250725	16:11:14	994aa599-1498-4155-a54f-ed38d3ec540a	GET	undefined	/index
+20250725	16:12:29	aa499e54-3547-4b5e-ba86-81bf546ceb7a	GET	undefined	/index
+20250725	16:12:29	d6300822-0cc2-4dad-9a72-0cdd2e8012e6	GET	undefined	/css/style.css
+20250726	05:13:39	af4d170a-3d6f-4801-aa73-7c92cea5d8b2	GET	undefined	/home
+20250726	05:13:39	d86c40a9-fab1-484d-8a12-4d9de4055cb1	GET	undefined	/css/style.css
