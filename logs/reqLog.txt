@@ -41,3 +41,7 @@
 20250729	04:39:09	0842f1c1-f5f5-41a3-acdd-c2297e4700fd	GET	undefined	/new-page.html
 20250729	04:39:09	b9146bd8-855e-4dd7-a9a4-092069b7e88f	GET	undefined	/css/style.css
 20250729	04:39:10	d3bcf550-ec46-40a2-9e37-8e4e92eb3adb	GET	undefined	/img/img1.jpg
+20250730	06:18:42	19d784f0-1524-4d20-9f24-57e2c9dd022a	POST	undefined	/register
+20250730	06:19:57	198bcb6d-b028-4f4e-8e06-90abd23f08a9	POST	undefined	/register
+20250730	06:20:45	8fa3a68b-441d-42be-90a7-4527f0955c7f	POST	undefined	/register
+20250730	06:50:09	af6a7c95-9de2-47ed-928b-5c6744a2e4a7	POST	undefined	/auth
